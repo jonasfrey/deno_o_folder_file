@@ -87,6 +87,11 @@ var a_o_mime_type_most_common = [{
     "s_mime_type": "application/x-csh",
     "s_mime_type_description": "application/x-csh"
 }, {
+    "s_file_extension": ".less",
+    "s_kind_of_document": "Cascading Style Sheets (CSS)",
+    "s_mime_type": "text/css",
+    "s_mime_type_description": "text/css"
+}, {
     "s_file_extension": ".css",
     "s_kind_of_document": "Cascading Style Sheets (CSS)",
     "s_mime_type": "text/css",
